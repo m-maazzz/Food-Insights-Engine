@@ -1,0 +1,8 @@
+==================================================
+FOOD INSIGHTS ENGINE REPORT
+==================================================
+
+total_foods: 87990
+total_nutrient_records: 170469
+unique_foods_with_nutrients: 76036
+unique_nutrients: 235
